@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Apple",
+    "type": "Fruit",
+    "serving_info": "1 Apple",
+    "unit_calorie": 95
+  },
+  {
+    "name": "Grapes",
+    "type": "Fruit",
+    "serving_info": "1 cup",
+    "unit_calorie": 104
+  },
+  {
+    "name": "Cherry",
+    "type": "Fruit",
+    "serving_info": "1 Cherry",
+    "unit_calorie": 4
+  },
+  {
+    "name": "Banana",
+    "type": "Fruit",
+    "serving_info": "1 Banana",
+    "unit_calorie": 110
+  },
+  {
+    "name": "Chicken",
+    "type": "Meat",
+    "serving_info": "~300g",
+    "unit_calorie": 731
+  },
+  {
+    "name": "Steak",
+    "type": "Meat",
+    "serving_info": "~170g",
+    "unit_calorie": 407
+  },
+  {
+    "name": "Ham",
+    "type": "Meat",
+    "serving_info": "~150g",
+    "unit_calorie": 240
+  },
+  {
+    "name": "Pork",
+    "type": "Meat",
+    "serving_info": "~190g",
+    "unit_calorie": 370
+  },
+
+  {
+    "name": "Broccoli",
+    "type": "Vegetable",
+    "serving_info": "~600g",
+    "unit_calorie": 210
+  },
+  {
+    "name": "Corn",
+    "type": "Vegetable",
+    "serving_info": "~160g",
+    "unit_calorie": 560
+  },
+  {
+    "name": "Carrot",
+    "type": "Vegetable",
+    "serving_info": "1 Carrot",
+    "unit_calorie": 25
+  },
+  {
+    "name": "Chocolate",
+    "type": "Dessert",
+    "serving_info": "~7g",
+    "unit_calorie": 37
+  },
+  {
+    "name": "Cookies",
+    "type": "Dessert",
+    "serving_info": "1 Cookie",
+    "unit_calorie": 78
+  },
+    {
+    "name": "Waffles",
+    "type": "Dessert",
+    "serving_info": "1 Waffle",
+    "unit_calorie": 95
+  }
+]

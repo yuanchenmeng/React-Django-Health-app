@@ -1,0 +1,58 @@
+[
+    {
+        "id": 9,
+        "UserID": 0,
+        "sleep_dur": 7.2,
+        "start": "21:59:00",
+        "end": "05:20:00",
+        "unit": "H"
+    },
+    {
+        "id": 7,
+        "UserID": 0,
+        "sleep_dur": 7.1,
+        "start": "11:12:40",
+        "end": "06:05:00",
+        "unit": "H"
+    },
+    {
+        "id": 6,
+        "UserID": 0,
+        "sleep_dur": 7.9,
+        "start": "23:19:00",
+        "end": "07:15:00",
+        "unit": "H"
+    },
+    {
+        "id": 5,
+        "UserID": 0,
+        "sleep_dur": 7.8,
+        "start": "21:59:00",
+        "end": "05:57:00",
+        "unit": "H"
+    },
+    {
+        "id": 4,
+        "UserID": 0,
+        "sleep_dur": 7,
+        "start": "23:59:00",
+        "end": "06:52:00",
+        "unit": "H"
+    },
+    {
+        "id": 3,
+        "UserID": 0,
+        "sleep_dur": 9.7,
+        "start": "22:48:00",
+        "end": "08:10:00",
+        "unit": "H"
+    },
+    {
+        "id": 2,
+        "UserID": 0,
+        "sleep_dur": 8.2,
+        "start": "23:19:00",
+        "end": "07:58:00",
+        "unit": "H"
+    }
+]

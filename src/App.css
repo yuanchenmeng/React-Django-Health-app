@@ -1,0 +1,154 @@
+@import url('https://cdn.syncfusion.com/ej2/material.css');
+
+
+.sidebar {
+    box-shadow: rgb(113 122 131 / 11%) 0px 7px 30px 0px;
+}
+
+.nav-item,
+.navbar {
+    z-index: 10000;
+}
+
+@media screen and (max-width: 800px) {
+    .sidebar {
+        z-index: 10000000;
+    }
+}
+
+.e-dlg-center-center, .e-quick-popup-wrapper.e-device {
+    z-index: 1000000 !important;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(216, 216, 216);
+    border-radius: 40px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+/* color-picker style  */
+
+#preview {
+    background: transparent url('https://ej2.syncfusion.com/react/demos/src/color-picker/images/pen.png') no-repeat;
+    display: inline-block;
+    height: 80px;
+    margin: 10px 0;
+    min-width: 300px;
+    max-width: 600px;
+    background-color: #008000;
+}
+
+.e-input-group:not(.e-float-icon-left), .e-input-group.e-success:not(.e-float-icon-left), .e-input-group.e-warning:not(.e-float-icon-left), .e-input-group.e-error:not(.e-float-icon-left), .e-input-group.e-control-wrapper:not(.e-float-icon-left), .e-input-group.e-control-wrapper.e-success:not(.e-float-icon-left), .e-input-group.e-control-wrapper.e-warning:not(.e-float-icon-left), .e-input-group.e-control-wrapper.e-error:not(.e-float-icon-left) {
+    border: none;
+}
+
+.main_board_c {
+    width: 100%;
+    min-height: 100vh;
+    --tw-bg-opacity: 1;
+    background-color: rgb(249, 250, 254);
+    /*md:ml-72*/
+}
+
+.main_board {
+    width: 100%;
+    min-height: 100vh;
+    --tw-bg-opacity: 1;
+    background-color: rgb(249, 250, 254);
+    flex-grow: 2;
+}
+
+.Klasse {
+    background-color: rebeccapurple;
+    width: 855px;
+}
+
+.rboxc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+    width: 855px;
+}
+
+.rboxca {
+    display: flex;
+    gap: 2.5rem;
+    justify-content: center;
+    justify-items: center;
+    flex-wrap: wrap;
+    width: 870px;
+    background-color: #ffffff;
+    border-color: #ababab;
+    border-radius: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.rboxca:hover {
+    border: 1px solid #dcdcdc;
+}
+
+
+.rbox {
+    background-color: #ffffff;
+    border-color: #ababab;
+
+    border-radius: 0.75rem;
+    padding: 1rem;
+    margin: 1rem;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add an inset box shadow to the borders */
+
+}
+
+.rbox:hover {
+    border: 1px solid #c2c2c2; /* change the border color on hover */
+}
+
+
+.rbox2 {
+    justify-content: center;
+
+    background-color: #3874ff;
+    border-color: #ababab;
+
+    border-radius: 0.75rem;
+    padding: 1rem;
+    margin: 1rem;
+    width: 100%;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.12); /* Add an inset box shadow to the borders */
+}
+
+.rbox2:hover {
+    border: 2px dotted rgba(0, 187, 255, 0.62);
+}
+
+
+.rbox4 {
+    background-color: #ffffff;
+    border-color: #ababab;
+
+    border-radius: 1rem;
+    padding: 1.5rem;
+    margin: 0.75rem;
+    width: 400px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add an inset box shadow to the borders */
+}
+
+.rbox4:hover {
+    border: 1px solid #dcdcdc;
+}
+
+.widfixed8 {
+    width: 860px;
+}

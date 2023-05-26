@@ -1,0 +1,12 @@
+[
+  {
+      "image": "https://picsum.photos/id/237/200/300",
+      "title": "Slide 1",
+      "description": "Description for Slide 1"
+  },
+  {
+      "image": "./data/product6.jpg",
+      "title": "Slide 2",
+      "description": "Description for Slide 2"
+  }
+]

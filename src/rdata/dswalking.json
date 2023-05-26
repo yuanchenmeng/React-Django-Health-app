@@ -1,0 +1,65 @@
+[
+    {
+        "id": 15,
+        "UserID": 0,
+        "Walking_val": 4,
+        "time": "2023-05-19",
+        "time_created": "2023-05-19",
+        "Steps": 787,
+        "unit": "km"
+    },
+    {
+        "id": 2,
+        "UserID": 0,
+        "Walking_val": 3.1,
+        "time": "2023-05-18",
+        "time_created": "2023-05-19",
+        "Steps": 2510,
+        "unit": "km"
+    },
+    {
+        "id": 9,
+        "UserID": 0,
+        "Walking_val": 3.2,
+        "time": "2023-05-18",
+        "time_created": "2023-05-19",
+        "Steps": 1562,
+        "unit": "km"
+    },
+    {
+        "id": 3,
+        "UserID": 0,
+        "Walking_val": 2.5,
+        "time": "2023-05-17",
+        "time_created": "2023-05-19",
+        "Steps": 452,
+        "unit": "km"
+    },
+    {
+        "id": 4,
+        "UserID": 0,
+        "Walking_val": 2.1,
+        "time": "2023-05-16",
+        "time_created": "2023-05-19",
+        "Steps": 53,
+        "unit": "km"
+    },
+    {
+        "id": 5,
+        "UserID": 0,
+        "Walking_val": 4,
+        "time": "2023-05-15",
+        "time_created": "2023-05-19",
+        "Steps": 4645,
+        "unit": "km"
+    },
+    {
+        "id": 16,
+        "UserID": 0,
+        "Walking_val": 5,
+        "time": "2023-05-15",
+        "time_created": "2023-05-19",
+        "Steps": 96,
+        "unit": "km"
+    }
+]

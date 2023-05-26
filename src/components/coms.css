@@ -1,0 +1,65 @@
+.outer{
+    z-index: 500;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background-color: rgb(5, 159, 147);
+}
+
+.spantext{
+    color: hsla(0, 0%, 95%, 0.9);
+    font-size: 1.2rem;
+    line-height: 62px;
+    display: block;
+    font-family: SourceSansProRegular,Helvetica,Arial,Verdana,sans-serif;
+    font-weight: 500;
+}
+
+.spantext:hover{
+  font-weight: 600;
+  color: #f1f1f1;
+}
+
+.btnlogin{
+    background-color: rgba(241, 241, 241, 0.8);
+    color: rgba(0, 146, 106, 0.95);
+    font-family: SourceSansProRegular,Helvetica,Arial,Verdana,sans-serif;
+    font-weight: 500;
+    line-height: 24px;
+    font-size: .875rem;
+    float: none;
+    cursor: pointer;
+    display: inline-block;
+    text-transform: uppercase;
+    border-radius: 18px;
+    text-align: center;
+}
+
+
+.btnlogin:hover {
+	background:linear-gradient(to bottom, rgb(216, 216, 216) 80%, rgb(5, 159, 147) 100%);
+}
+
+
+.btnlogout{
+    border: 2px solid #d8d8d8;
+    color: #d8d8d8;
+    line-height: 21px;
+    font-size: .875rem;
+    float: none;
+    font-family: SourceSansProRegular,Helvetica,Arial,Verdana,sans-serif;
+    font-weight: 500;
+    box-sizing: border-box;
+    width: auto;
+    cursor: pointer;
+    display: inline-block;
+    text-transform: uppercase;
+    border-radius: 18px;
+    text-align: center;
+}
+
+.btnlogout:hover {
+	background-color: rgba(255, 255, 255, 0.12);
+}
+
+

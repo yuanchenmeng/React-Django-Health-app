@@ -1,0 +1,300 @@
+.myBlock1 {
+    background-image: linear-gradient(to bottom, rgba(72, 229, 170, 0.9) 0%, rgba(158, 239, 232, 0.9) 100%);
+    border-bottom: 2px solid #44b6fe;
+}
+
+
+.myButton1 {
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    line-height: 13px;
+
+    border-radius: 15px;
+    font-family: "Droid Sans Mono";
+    font-weight: lighter;
+    font-style: normal;
+    font-variant: normal;
+    background-image: linear-gradient(to right, rgb(98, 231, 183, 0.9) 0%, rgb(144, 213, 207, 0.9) 100%);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 3px 3px 0px;
+    border: 2px solid rgba(28, 110, 164, 0.6);
+    display: inline-block;
+}
+
+.myButton1:hover {
+    background: #62E7B7;
+    border: 2px solid rgb(46, 138, 197);
+}
+
+.myButton1:active {
+    background: #90D5CF;
+}
+
+
+.myButton2 {
+    box-shadow: inset 0px 1px 0px 0px #bbdaf7;
+    background: linear-gradient(to bottom, #96cbff 5%, #2184e8 100%);
+    background-color: #96cbff;
+    border-radius: 6px;
+    border: 1px solid #84bbf3;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: "Arial";
+    font-size: 15px;
+    padding: 6px 20px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #528ecc;
+}
+
+.myButton2:hover {
+    background: linear-gradient(to bottom, #2184e8 5%, #96cbff 100%);
+    background-color: #2184e8;
+}
+
+.myButton2:active {
+    position: relative;
+    top: 1px;
+}
+
+
+.myButton3 {
+    box-shadow: 0px 1px 0px 0px #949494;
+    background: linear-gradient(to bottom, rgba(0, 198, 144, 0.8) 20%, rgba(2, 192, 202, 0.62) 80%);
+    border-radius: 5px;
+    border: 1px dotted rgba(170, 170, 170, 0.47);
+
+    display: inline-block;
+    cursor: pointer;
+    color: #f5f5f5;
+    font-family: Arial;
+    font-size: 15px;
+    padding: 8px 21px;
+    text-decoration: none;
+}
+
+.myButton3:hover {
+    background: linear-gradient(to bottom, rgba(2, 192, 202, 0.62) 20%, rgba(0, 198, 144, 0.8) 80%);
+
+}
+
+.myButton3:active {
+    position: relative;
+    top: 1px;
+}
+
+.myButton4 {
+    background: linear-gradient(to bottom, #ff4f3b 5%, #bd0000 100%);
+    background-color: #ff4f3b;
+    border-radius: 6px;
+    border: 1px solid #ffffff;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 15px;
+    padding: 8px 25px;
+    text-decoration: none;
+}
+
+.myButton4:hover {
+    background: linear-gradient(to bottom, #bd0000 5%, #ff4f3b 100%);
+    background-color: #bd0000;
+}
+
+.myButton4:active {
+    position: relative;
+    top: 1px;
+}
+
+.insertpblock1 {
+    background-image: url(res/s_pl.jpg);
+    width: 320px;
+    height: 200px;
+    background-size: contain;
+    background-position: center;
+}
+
+.fpbt1 {
+    width: 40px;
+    height: 40px;
+}
+
+.insertpblock2 {
+    background-image: url(res/s_pr.jpg);
+    width: 358px;
+    height: 200px;
+    background-size: contain;
+    background-position: center;
+}
+
+.fpbt2 {
+    width: 40px;
+    height: 20px;
+}
+
+.greenpad0 {
+    background: #b0e5db;
+    display: block;
+    padding: .625rem;
+    border-bottom: 1px solid #c2c2c2;
+    border-top: 1px solid #c2c2c2;
+}
+
+.padsubblock1 {
+    border-right: #3fcda0 3px dotted;
+    display: inline-block;
+    text-align: center;
+    width: 50%;
+}
+
+.padsubblock2 {
+    display: inline-block;
+    text-align: center;
+    width: 50%;
+}
+
+.padtextupper {
+    color: #086076;
+    font-family: Roboto;
+    font-size: 0.75rem;
+    font-stretch: condensed;
+    line-height: 1.5;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.padtextlower {
+    color: #001d17;
+    font-family: SansSerif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 0.75;
+    text-align: center;
+}
+
+.darkgreent1 {
+    color: #086076;
+    font-family: Source Sans Pro, Verdana, sans-serif;
+}
+
+.mybtnb0 {
+    display: block;
+    background-color: #6fd2ae;
+    color: #4d4d4d;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Source Sans Pro, Verdana, sans-serif;
+    border-radius: 3px;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, .1), 0 2px 2px 0 rgba(0, 0, 0, .2);
+}
+
+.borderblkr {
+    border-right: #a6a5a5 1px dotted;
+}
+
+.minorheadg {
+    color: #0cb4a4;
+    font-family: "Adobe Devanagari";
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.minorheadgwof {
+    color: #0cb4a4;
+    font-family: "Adobe Devanagari";
+}
+
+.cyanpad {
+    background: rgba(138, 200, 255, 0.1);
+    display: block;
+    padding: .625rem;
+    border-top: 0.5px solid rgba(194, 194, 194, 0.33);
+}
+
+
+.mybtnb1 {
+    transition: all 0.2s ease, visibility 0s;
+    background: rgba(1, 171, 164, 0.8);
+
+    box-sizing: border-box;
+    color: rgba(255, 255, 255);
+
+    cursor: pointer;
+    display: block;
+
+    border-radius: 8px;
+
+    touch-action: manipulation;
+    height: 100%;
+}
+
+
+.mybtnb1:hover {
+    background: rgba(225, 225, 225, 0.8);
+    color: rgba(1, 171, 164);
+    border-bottom: 2px solid rgba(1, 171, 164);
+    border-top: 2px solid rgba(1, 171, 164);
+    border-left: 2px solid rgba(1, 171, 164);
+    border-right: 2px solid rgba(1, 171, 164);
+}
+
+
+.mybtnb1s {
+    transition: all 0.2s ease, visibility 0s;
+    background: rgb(1, 171, 164);
+
+    box-sizing: border-box;
+    color: rgba(255, 255, 255);
+
+    cursor: pointer;
+    display: block;
+
+    border-radius: 8px;
+
+    touch-action: manipulation;
+}
+
+
+.mybtnb1s:hover {
+    background: rgba(225, 225, 225, 0.8);
+    color: rgba(1, 171, 164);
+    border-bottom: 2px solid rgba(1, 171, 164);
+    border-top: 2px solid rgba(1, 171, 164);
+    border-left: 2px solid rgba(1, 171, 164);
+    border-right: 2px solid rgba(1, 171, 164);
+}
+
+
+.fsize0 {
+    width: 370px;
+    height: 360px;
+}
+
+.fsize1 {
+    width: 370px;
+    height: 500px;
+}
+
+.signupsize {
+    width: 375px;
+    height: 500px;
+}
+
+.sigupf {
+    font-size: 48px;
+    font-family: "Californian FB";
+    font-weight: 1200;
+}
+
+
+.loginpad {
+    background-color: rgba(241, 240, 240, 0.75);
+    padding: .625rem;
+    border-top: 0.5px solid rgba(194, 194, 194, 0.33);
+
+}
+
+
+
+
+
+

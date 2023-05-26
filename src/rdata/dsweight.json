@@ -1,0 +1,51 @@
+[
+    {
+        "id": 9,
+        "UserID": 0,
+        "weight_val": 124,
+        "time": "2023-05-17",
+        "unit": "lb"
+    },
+    {
+        "id": 7,
+        "UserID": 0,
+        "weight_val": 128,
+        "time": "2023-05-07",
+        "unit": "lb"
+    },
+    {
+        "id": 6,
+        "UserID": 0,
+        "weight_val": 131,
+        "time": "2023-05-06",
+        "unit": "lb"
+    },
+    {
+        "id": 5,
+        "UserID": 0,
+        "weight_val": 123,
+        "time": "2023-05-05",
+        "unit": "lb"
+    },
+    {
+        "id": 4,
+        "UserID": 0,
+        "weight_val": 127,
+        "time": "2023-05-04",
+        "unit": "lb"
+    },
+    {
+        "id": 3,
+        "UserID": 0,
+        "weight_val": 125,
+        "time": "2023-05-03",
+        "unit": "lb"
+    },
+    {
+        "id": 2,
+        "UserID": 0,
+        "weight_val": 130,
+        "time": "2023-05-02",
+        "unit": "lb"
+    }
+]
