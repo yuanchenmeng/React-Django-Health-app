@@ -29,6 +29,10 @@ const Home = () => {
   const [Bval3, setBval3] = useState(null);
   const [Bval4, setBval4] = useState(null);
 
+  const [isWaiting, setIsWaiting] = useState(true);
+
+
+
 
   function fetchSleep() {
     axios({
@@ -84,12 +88,26 @@ const Home = () => {
   }
 
 
+
+
   useEffect(() => {
-    fetchSleep();
-    fetchCalorie();
-    fetchWeight();
-    fetchWalking();
-  }, [])
+    setTimeout(() => {
+      setIsWaiting(false);
+      fetchSleep();
+    }, 100);
+    setTimeout(() => {
+      setIsWaiting(false);
+      fetchCalorie();
+    }, 100);
+    setTimeout(() => {
+      setIsWaiting(false);
+      fetchWeight();
+    }, 100);
+    setTimeout(() => {
+      setIsWaiting(false);
+      fetchWalking();
+    }, 100);
+  }, []);
 
 
   return (
